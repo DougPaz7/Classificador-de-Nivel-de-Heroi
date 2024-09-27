@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Classificador-de-Nivel-de-Heroi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b4165351dd83f0f46c0861bb716bdee80ac6c68")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+076d701720d59090e911989fdb4f8136ae41a11a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Classificador-de-Nivel-de-Heroi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Classificador-de-Nivel-de-Heroi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

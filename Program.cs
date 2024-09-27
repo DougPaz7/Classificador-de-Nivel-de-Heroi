@@ -19,6 +19,8 @@ do
 
     h.NivelDoHeroi(nivel);
 
+    Console.WriteLine();
+
     Console.WriteLine("Deseja repetir?[S/N]");
     continuar = Console.ReadLine();
 
