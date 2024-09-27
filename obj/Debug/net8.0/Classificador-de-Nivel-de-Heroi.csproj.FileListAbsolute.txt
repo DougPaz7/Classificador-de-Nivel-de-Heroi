@@ -1,0 +1,15 @@
+C:\Users\Adilson\Documents\Classificador-de-Nivel-de-Heroi\bin\Debug\net8.0\Classificador-de-Nivel-de-Heroi.exe
+C:\Users\Adilson\Documents\Classificador-de-Nivel-de-Heroi\bin\Debug\net8.0\Classificador-de-Nivel-de-Heroi.deps.json
+C:\Users\Adilson\Documents\Classificador-de-Nivel-de-Heroi\bin\Debug\net8.0\Classificador-de-Nivel-de-Heroi.runtimeconfig.json
+C:\Users\Adilson\Documents\Classificador-de-Nivel-de-Heroi\bin\Debug\net8.0\Classificador-de-Nivel-de-Heroi.dll
+C:\Users\Adilson\Documents\Classificador-de-Nivel-de-Heroi\bin\Debug\net8.0\Classificador-de-Nivel-de-Heroi.pdb
+C:\Users\Adilson\Documents\Classificador-de-Nivel-de-Heroi\obj\Debug\net8.0\Classificador-de-Nivel-de-Heroi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adilson\Documents\Classificador-de-Nivel-de-Heroi\obj\Debug\net8.0\Classificador-de-Nivel-de-Heroi.AssemblyInfoInputs.cache
+C:\Users\Adilson\Documents\Classificador-de-Nivel-de-Heroi\obj\Debug\net8.0\Classificador-de-Nivel-de-Heroi.AssemblyInfo.cs
+C:\Users\Adilson\Documents\Classificador-de-Nivel-de-Heroi\obj\Debug\net8.0\Classificador-de-Nivel-de-Heroi.csproj.CoreCompileInputs.cache
+C:\Users\Adilson\Documents\Classificador-de-Nivel-de-Heroi\obj\Debug\net8.0\Classificador-de-Nivel-de-Heroi.sourcelink.json
+C:\Users\Adilson\Documents\Classificador-de-Nivel-de-Heroi\obj\Debug\net8.0\Classificador-de-Nivel-de-Heroi.dll
+C:\Users\Adilson\Documents\Classificador-de-Nivel-de-Heroi\obj\Debug\net8.0\refint\Classificador-de-Nivel-de-Heroi.dll
+C:\Users\Adilson\Documents\Classificador-de-Nivel-de-Heroi\obj\Debug\net8.0\Classificador-de-Nivel-de-Heroi.pdb
+C:\Users\Adilson\Documents\Classificador-de-Nivel-de-Heroi\obj\Debug\net8.0\Classificador-de-Nivel-de-Heroi.genruntimeconfig.cache
+C:\Users\Adilson\Documents\Classificador-de-Nivel-de-Heroi\obj\Debug\net8.0\ref\Classificador-de-Nivel-de-Heroi.dll
