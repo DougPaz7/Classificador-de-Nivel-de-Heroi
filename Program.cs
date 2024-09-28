@@ -3,7 +3,7 @@
 string nivel = "";
 string continuar = "";
 
-// Instãncia da classe herói.
+// Instância da classe herói.
 Heroi h = new Heroi();
 
 // Looping para receber do usuário o nome e o XP do herói.
